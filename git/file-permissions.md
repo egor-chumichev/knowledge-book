@@ -17,11 +17,11 @@ Git не полностью контролирует права на файлы,
 Иногда требуется специально дать права на запуск, игнорируя ограничения файловой системы:
 
 ```sh
-git update-index --chmod +x index.html
+git update-index --chmod=+x index.html
 ```
 
 Можно сделать это во время индексации:
 
 ```sh
-git add --chmod +x index.html
+git add --chmod=+x index.html
 ```
