@@ -1,0 +1,11 @@
+# IDEA settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MacOS Finder binaries
+.DS_Store
+
+# Environment variables
+.env
