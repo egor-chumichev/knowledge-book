@@ -1,4 +1,4 @@
-# Personal Knowledge Notebook
+# Personal Notebook
 
 Here, you will find my personal notes written in Markdown. Feel free to use this repository as a helpful resource.
 
