@@ -8,7 +8,7 @@ Thank you for taking the time to review my notes. I appreciate your attention an
 
 ### File Structure
 
-My knowledge base consists of books in the form of folders and pages in the form of Markdown files. Please, ensure that you follow this convention.
+My knowledge base consists of sections in the form of directories and pages in the form of Markdown files. Please, ensure that you follow this convention.
 
 ## Author
 
